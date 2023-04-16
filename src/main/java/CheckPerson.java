@@ -1,5 +1,5 @@
 package main.java;
 
-interface CheckPerson {
+public interface CheckPerson {
     boolean test(Person p);
 }
